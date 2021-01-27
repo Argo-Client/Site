@@ -20,9 +20,9 @@
             <div class="col s12 m4">
                 <div class="icon-block">
                     <h2 class="center orange-text"><i aria-hidden="true" class="material-icons">flash_on</i></h2>
-                    <h5 class="center">Laad snel</h5>
+                    <h5 class="center">Laadt snel</h5>
 
-                    <p class="light">In tegenstelling tot de normale Magister app laad deze app wel snel. Hierdoor ben je nooit te laat in je lessen.</p>
+                    <p class="light">In tegenstelling tot de normale Magister app laadt deze app wel snel. Hierdoor ben je nooit te laat in je lessen.</p>
                 </div>
             </div>
 
